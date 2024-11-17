@@ -90,11 +90,3 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
   <a href="https://wa.me/8801634146292" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.fiverr.com/nurulislam291" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
 </p>
-
----
-
-## 👀 Visitors Count
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam.nurulislam" alt="Visitors Count">
-</p>
