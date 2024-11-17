@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>Hi there, I'm Nurul Islam👋</h1>
+  <h1>Hi there, I'm [Your Name] 👋</h1>
   <p>A passionate Full-Stack Developer building modern web applications</p>
   <img src="https://user-images.githubusercontent.com/123456789/1234567/animated-header.gif" alt="Header Image" width="100%">
 </div>
@@ -10,7 +10,24 @@
 
 ## 🛠 About Me
 
-I'm a **Full-Stack Developer** with a strong passion for building scalable and efficient web applications. My expertise includes **frontend**, **backend**, and tools that empower modern development.
+I'm a **Full-Stack Developer** with a strong passion for building scalable and efficient web applications. My expertise includes **frontend**, **backend**, and tools that empower modern development. I also have **professional experience** delivering high-quality solutions for international companies.
+
+---
+
+## 💼 Work Experience
+
+### **Full-Stack Developer**  
+**Webbang Limited (UK-based company)**  
+- Currently working as a Full-Stack Developer.  
+- **Role**: Fixing application bugs, resolving errors, and adding new features to improve functionality and user experience.
+
+### **Backend Developer**  
+**Canvas Developers**  
+- **Duration**: 3 months  
+- **Role**: Designed and implemented efficient backend systems using:  
+  - **Technologies**: Node.js, Express.js, TypeScript, JavaScript, Redis, MongoDB, PostgreSQL, Prisma, REST API.  
+  - Collaborated with cross-functional teams to deliver high-quality backend solutions.  
+- **Additional Expertise**: Seamlessly integrated frontend technologies such as Next.js, React.js, HTML, CSS, JavaScript, and Tailwind CSS.
 
 ---
 
@@ -89,4 +106,3 @@ I'm a **Full-Stack Developer** with a strong passion for building scalable and e
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitors Count">
 </p>
-
