@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Nurul Islam 👋</h1>
   <p>A passionate Full-Stack Developer building modern web applications</p>
   <img src="https://user-images.githubusercontent.com/123456789/1234567/animated-header.gif" alt="Header Image" width="100%">
 </div>
@@ -64,45 +64,16 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
 
 ---
 
-## 📚 Total Project History
-
-### **Web-Based Projects**
-1. **E-commerce Website**  
-   - Stack: React.js, Node.js, MongoDB, Tailwind CSS  
-   - Features: Product listing, cart system, and payment integration.  
-
-2. **Real-Time Chat Application**  
-   - Stack: Node.js, Express.js, Redis, WebSocket  
-   - Features: Real-time messaging, user authentication.  
-
-3. **Portfolio Website**  
-   - Stack: Next.js, Tailwind CSS  
-   - Features: Personal portfolio showcasing skills, projects, and contact form.
-
-4. **Inventory Management System**  
-   - Stack: Vue.js, PostgreSQL, Prisma  
-   - Features: Real-time stock management, analytics, and reporting.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%">
-</div>
-
----
-
 ## 📬 Connect with Me
 
-- 🌐 [Portfolio Website](https://yourportfolio.com)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 **Portfolio Website**: [https://nurulislam.vercel.app/](https://nurulislam.vercel.app/)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/nurul-islam-a8ab9b175/](https://www.linkedin.com/in/nurul-islam-a8ab9b175/)  
+- 📧 **Email**: [mdnuruli291@gmail.com](mailto:mdnuruli291@gmail.com)  
+- 💬 **WhatsApp**: [+8801634146292](https://wa.me/8801634146292)  
+- 🖥️ **Fiverr**: [https://www.fiverr.com/nurulislam291](https://www.fiverr.com/nurulislam291)  
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitors Count">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam.nurulislam" alt="Visitors Count">
 </p>
