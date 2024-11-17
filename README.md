@@ -10,7 +10,7 @@
 
 ## 🛠 About Me
 
-I'm a **Full-Stack Developer** with a strong passion for building scalable and efficient web applications. My expertise includes **frontend**, **backend**, and tools that empower modern development. I also have **professional experience** delivering high-quality solutions for international companies.
+I'm a **Full-Stack Developer** with expertise in modern frontend and backend technologies. I have professional experience working with global teams and delivering scalable solutions.
 
 ---
 
@@ -18,70 +18,70 @@ I'm a **Full-Stack Developer** with a strong passion for building scalable and e
 
 ### **Full-Stack Developer**  
 **Webbang Limited (UK-based company)**  
-- Currently working as a Full-Stack Developer.  
-- **Role**: Fixing application bugs, resolving errors, and adding new features to improve functionality and user experience.
+- Fixing application bugs and errors, adding new features, and improving functionality.
 
 ### **Backend Developer**  
 **Canvas Developers**  
 - **Duration**: 3 months  
-- **Role**: Designed and implemented efficient backend systems using:  
-  - **Technologies**: Node.js, Express.js, TypeScript, JavaScript, Redis, MongoDB, PostgreSQL, Prisma, REST API.  
-  - Collaborated with cross-functional teams to deliver high-quality backend solutions.  
-- **Additional Expertise**: Seamlessly integrated frontend technologies such as Next.js, React.js, HTML, CSS, JavaScript, and Tailwind CSS.
+- Designed and implemented backend systems using modern tools and technologies.  
+- Collaborated with cross-functional teams to integrate backend and frontend.
 
 ---
 
 ## 🚀 Tech Stack
 
-### **Frontend Development**
-- **Frameworks & Libraries**:  
-  ![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+### **Frontend Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-- **Styling Tools**:  
-  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- **Other Tools**:  
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![Firebase Authentication](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### **Backend Development**
-- **Languages & Frameworks**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-- **Databases**:  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-- **ORM & Query Builders**:  
-  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-
----
+### **Backend Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+</p>
 
 ### **Tools & Platforms**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
+</p>
 
 ---
 
-## 🌟 Highlights
+## 📚 Total Project History
 
-- 🔥 Proficient in building **RESTful APIs** and real-time communication using **Redis Publish/Subscribe**.
-- 🚀 Experienced in designing responsive and interactive **UI/UX** with **React**, **Vue.js**, and **TailwindCSS**.
-- 🛠 Skilled in **state management** using **Redux Toolkit**.
-- 🔐 Implementing secure authentication with **Firebase** and **JWT**.
-- 🗄️ Managing complex databases with **MongoDB**, **PostgreSQL**, and **Prisma**.
+### **Web-Based Projects**
+1. **E-commerce Website**  
+   - Stack: React.js, Node.js, MongoDB, Tailwind CSS  
+   - Features: Product listing, cart system, and payment integration.  
+
+2. **Real-Time Chat Application**  
+   - Stack: Node.js, Express.js, Redis, WebSocket  
+   - Features: Real-time messaging, user authentication.  
+
+3. **Portfolio Website**  
+   - Stack: Next.js, Tailwind CSS  
+   - Features: Personal portfolio showcasing skills, projects, and contact form.
+
+4. **Inventory Management System**  
+   - Stack: Vue.js, PostgreSQL, Prisma  
+   - Features: Real-time stock management, analytics, and reporting.
 
 ---
 
