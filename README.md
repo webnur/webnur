@@ -83,7 +83,7 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
 
 ## 📬 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://nurulislam.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/nurul-islam-a8ab9b175/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mdnuruli291@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -92,6 +92,8 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
 </p>
 
 ---
+
+## 👀 Visitors Count
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=nurulislam.nurulislam" alt="Visitors Count">
