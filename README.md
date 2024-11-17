@@ -69,8 +69,14 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide=html,css" width="48%">
 </div>
+
+### Most Used Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
 ---
 
