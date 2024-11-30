@@ -67,7 +67,7 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
 ## 📈 GitHub Contributions
 
 
-<div class="flex-container">
+<div style=" display: flex;  justify-content: center; align-items: center;  gap: 10px; ">
   <img src="https://github-readme-stats.vercel.app/api?username=webnur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=webnur&theme=tokyonight" alt="GitHub Streak"/>
 </div>
