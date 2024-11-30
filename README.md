@@ -1,4 +1,4 @@
-<!-- README.md -->
+.<!-- README.md -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   <h1>Hi there, I'm Nurul Islam 👋</h1>
@@ -67,8 +67,8 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
 ## 📈 GitHub Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?webnur=yourusername&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webnur&theme=radical" width="48%">
 </div>
 
 ---
