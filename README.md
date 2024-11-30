@@ -66,10 +66,18 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
 
 ## 📈 GitHub Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?webnur=yourusername&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?webnur=webnur&theme=radical" width="48%">
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webnur&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webnur&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webnur&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
