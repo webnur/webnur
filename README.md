@@ -79,15 +79,11 @@ I'm a **Full-Stack Developer** with expertise in modern frontend and backend tec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webnur&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
+### 🏆 GitHub Achievements
 
-### Most Used Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=webnur&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophy"/>
 </p>
-
----
 
 ## 📬 Connect with Me
 
